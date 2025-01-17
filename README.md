@@ -10,7 +10,7 @@ A todo application with separate frontend and backend components.
 
 1. Clone the repository:
 
-   git clone [your-repository-url]
+   git clone https://github.com/Panit24/Todo-App-Frontend.git
 
 2. Install dependencies
 
